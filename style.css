@@ -1,0 +1,148 @@
+body
+{
+background-color: #ffffff;
+color:  #552583;
+line-height: 1em;
+margin: 0%;
+font-family:'Courier New', Courier, monospace;
+}
+
+html {
+    scroll-behavior: smooth;
+  }
+
+.container{
+    width: 0%;
+}
+
+#main-header{
+    color:  #552583;
+}
+
+.navbar{
+  background-color: none !important;
+}
+
+li{
+    display: inline;
+    padding: 5px;
+}
+
+ul li a{
+    font-size: 20px;
+    text-decoration: none;
+    padding: 10px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+#title{
+  color:  #552583;
+  font-size: 50px;
+  text-align: center;
+  padding: 100px;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+#title a{
+  background-color: #552583; 
+  color:#FDC029;
+  font-size: 20px;
+  padding: 14px 20px;
+  text-align: center;
+  text-decoration: none;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+#image{
+  margin: 200px;
+}
+
+#section
+  {
+    background:  #ffffff;
+    color: #DE970B;
+    text-align: center;
+    font-size: 20px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  }
+  
+
+  #title:hover a{
+    background-color: #552583;
+  }
+
+
+#sectionb
+{
+  background:  #ffffff;
+  color: #552583;
+  text-align: left;
+  font-size: 20px;
+  padding: 20px;
+  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  justify-content: center;
+}
+
+#sectionb .center{
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+}
+
+.center img{
+  padding: 20px;
+  height: 30%;
+  width: 30%;
+}
+
+#sectionc
+{
+  background: #f5bd02;
+  color:#552583;
+  text-align: center;
+  font-size: 30px;
+  padding: 70px;
+  width: 100%;
+  height: auto;
+  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+#sectionc a
+{
+  background: #f5bd02;
+  color:#552583;
+  text-align: center;
+  font-size: 30px;
+  padding: 70px;
+  width: 100%;
+  height: auto;
+  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+#sectiond{
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  text-align: center;
+}
+
+#sectiond a{
+  text-decoration: none;
+}
+
+
+.banner {
+  background: #552583;
+  background: linear-gradient(to right, #552583,#f5bd02, #f5bd02);
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+#main-footer{
+    background:   #552583;
+    color: #DE970B;
+    text-align: center;
+    font-size: 20px;
+    padding: 40px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    line-height: 3em;
+}
+
+
